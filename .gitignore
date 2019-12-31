@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/external
+/out/build/x64-Debug
+/Folder.DotSettings.user
+/OpenCV.CMake/out/build/x64-Debug
