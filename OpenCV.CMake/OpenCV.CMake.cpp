@@ -1,9 +1,5 @@
-﻿// OpenCV.CMake.cpp : Defines the entry point for the application.
-//
-
-#include <iostream>
+﻿#include <iostream>
 #include <opencv2/imgcodecs.hpp>
-
 
 using namespace std;
 
