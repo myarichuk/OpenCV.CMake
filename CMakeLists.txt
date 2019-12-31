@@ -1,5 +1,5 @@
 ﻿
-cmake_minimum_required (VERSION 3.14)
+cmake_minimum_required (VERSION 3.13)
 project ("OpenCV CMake Reference Sample")
 
 include(cmake/build_external_project.cmake)
